@@ -1,0 +1,5 @@
+{
+  "data_file_train": "data/spotify_album_genre_train.csv",
+  "data_file_validation": "data/spotify_album_genre_validation.csv",
+  "data_file_test": "data/spotify_album_genre_test.csv"
+}
